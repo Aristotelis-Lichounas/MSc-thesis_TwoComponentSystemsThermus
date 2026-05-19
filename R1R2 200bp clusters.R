@@ -1,5 +1,5 @@
 ## ===== Simple BLAST clustering (LibreOffice-friendly, fixed) =====
-## Place files "R1.tabular" and "R2.tabular" in your project folder (or edit FILES).
+## Place files "R1.tabular" and "R2.tabular" in project folder (or edit FILES).
 
 options(stringsAsFactors = FALSE)
 
